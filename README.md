@@ -1,1 +1,1 @@
-Projenin linkine buradan ulaşabilirsiniz :
+Projenin linkine buradan ulaşabilirsiniz : https://loading-bar-silk.vercel.app/
